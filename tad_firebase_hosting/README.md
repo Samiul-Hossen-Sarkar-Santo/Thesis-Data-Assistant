@@ -1,6 +1,11 @@
 # Thesis Data Assistant
 
+
 A privacy-first, client-side web tool for academic researchers to view, process, and convert data files, and extract text from images using OCR.
+
+## Hosted Site
+
+Access the live application here: [https://thesis-data-assistant.web.app](https://thesis-data-assistant.web.app)
 
 ## Features
 

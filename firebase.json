@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "tad_firebase_hosting",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
